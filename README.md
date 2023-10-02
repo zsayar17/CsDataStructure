@@ -1,0 +1,2 @@
+# CsDataStructure
+This repository features a diverse collection of data structures and algorithms implemented in the C# programming language. Included among them are the 'Sieve of Eratosthenes,' 'Boyer-Moore Algorithm,' 'QuickSort,' and various others. These implementations showcase practical applications of these data structures and algorithms in C#. This project aims to provide efficient solutions for prime number generation, advanced integer searching, and various sorting techniques.
